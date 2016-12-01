@@ -1,2 +1,4 @@
-# Shashank-Pushkar-Shraddha-Rohan-Mendiratta
-Potentially one client in Noida (Alok's Reference)
+# Shashank-Pushkar-Shraddha-Rohan
+The Modern Marketeer App
+Clients are all startup companies looking for setting up their Social media platforms
+
